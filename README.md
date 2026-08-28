@@ -28,9 +28,9 @@ and required skills — making job search and hiring strategy inefficient and re
 Power BI · DAX · Data Modeling · Data Cleaning · Exploratory Data Analysis (EDA)
 
 ## Screenshots
-![Job Market Overview](screenshots/01_job_market_overview.png)
-![Salary & Education Intelligence](screenshots/02_salary_education_intelligence.png)
-![Skills & Job Intelligence](screenshots/03_skills_job_intelligence.png)
+![Job Market Overview]
+![Salary & Education Intelligence]
+![Skills & Job Intelligence]
 
 ## How to View
 Download `Job_Market_Analysis_project.pbix` and open it in Power BI Desktop (free download
