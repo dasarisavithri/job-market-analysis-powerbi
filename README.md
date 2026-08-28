@@ -37,4 +37,4 @@ Download `Job_Market_Analysis_project.pbix` and open it in Power BI Desktop (fre
 from Microsoft).
 
 ## Author
-[Dasari Savithri] | [LinkedIn URL] | [savithridasari1918@gmail.com]
+[Dasari Savithri] | [https://lnkd.in/p/d948DQzH] | [savithridasari1918@gmail.com]
